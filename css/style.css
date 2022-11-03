@@ -96,7 +96,6 @@ h6 {
   height: 80px;
   background-color: #FFFFFF;
 }
-
 .header__top nav {
   display: inline-block;
 }
@@ -107,7 +106,6 @@ h6 {
   margin-left: 117px;
   margin-right: 73px;
 }
-
 .header__logo img {
   vertical-align: middle;
 }
@@ -127,7 +125,6 @@ a.nav1 {
   margin-top: 32px;
   margin-right: 37.58px;
 }
-
 #F img {
   vertical-align: middle;
 }
@@ -137,7 +134,6 @@ a.nav1 {
   margin-top: 34.95px;
   margin-right: 34.54px;
 }
-
 #Tel img {
   vertical-align: middle;
 }
@@ -147,7 +143,6 @@ a.nav1 {
   margin-top: 34.21px;
   margin-right: 33.46px;
 }
-
 #tw img {
   vertical-align: middle;
 }
@@ -157,7 +152,6 @@ a.nav1 {
   margin-top: 34.21px;
   margin-right: 44px;
 }
-
 #M img {
   vertical-align: middle;
 }
@@ -209,7 +203,6 @@ nav button {
   height: 145px;
   background-color: #FFFFFF;
 }
-
 .header__bottom img {
   display: inline-block;
   vertical-align: middle;
@@ -247,7 +240,6 @@ nav button {
   display: inline-block;
   position: relative;
 }
-
 .plan__manage .plane__p1 {
   font-size: 10px;
   line-height: 12px;
@@ -255,7 +247,6 @@ nav button {
   padding-top: 210px;
   padding-left: 271px;
 }
-
 .plan__manage .plane__p2 {
   font-size: 36px;
   line-height: 45px;
@@ -263,7 +254,6 @@ nav button {
   padding-top: 27px;
   padding-left: 271px;
 }
-
 .plan__manage .plane__p3 {
   font-size: 15px;
   line-height: 29px;
@@ -271,7 +261,6 @@ nav button {
   padding-top: 27px;
   padding-left: 271px;
 }
-
 .plan__manage .button1 {
   margin-top: 60px;
   margin-left: 296px;
@@ -286,13 +275,11 @@ nav button {
   -webkit-box-shadow: 0px 5px 15px rgba(188, 199, 255, 0.75);
           box-shadow: 0px 5px 15px rgba(188, 199, 255, 0.75);
 }
-
 .plan__manage .button1 img {
   position: relative;
   left: 6px;
   vertical-align: middle;
 }
-
 .plan__manage .button2 {
   font-size: 13px;
   line-height: 16px;
@@ -309,7 +296,6 @@ nav button {
   left: 600px;
   top: 130px;
 }
-
 .plane__img img {
   vertical-align: middle;
   -webkit-filter: drop-shadow(0px 100px 150px #F2F6FF);
@@ -328,55 +314,46 @@ nav button {
   left: 225px;
   top: 143.22px;
 }
-
 .img__clouds #cloud_2 {
   position: absolute;
   left: 258.39px;
   top: 141px;
 }
-
 .img__clouds #cloud_3 {
   position: absolute;
   left: 155px;
   top: 643px;
 }
-
 .img__clouds #cloud_4 {
   position: absolute;
   left: 162px;
   top: 634px;
 }
-
 .img__clouds #cloud_5 {
   position: absolute;
   left: 209px;
   top: 656px;
 }
-
 .img__clouds #cloud_6 {
   position: absolute;
   left: 126px;
   top: 650px;
 }
-
 .img__clouds #cloud_7 {
   position: absolute;
   left: 1223.97px;
   top: 219px;
 }
-
 .img__clouds #cloud_8 {
   position: absolute;
   left: 1296px;
   top: 203px;
 }
-
 .img__clouds #cloud_9 {
   position: absolute;
   left: 1211px;
   top: 222.61px;
 }
-
 .img__clouds #cloud_10 {
   position: absolute;
   left: 1275.84px;
