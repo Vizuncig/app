@@ -479,3 +479,71 @@ nav button {
   width: 113px;
   height: 43px;
 }
+
+.img__contaner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.contaner__1 {
+  height: 342px;
+  width: 720px;
+  background: -o-linear-gradient(220.68deg, #6888FF 12.77%, #5E80FF 73.11%);
+  background: linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
+}
+
+.img__strelka {
+  padding: 66px 90px 24px 565px;
+}
+
+.paragraf__1 {
+  padding: 0 90px 0 534px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 83px;
+  /* identical to box height */
+  text-align: right;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+}
+
+.paragraf__2 {
+  padding: 0 90px 0 370px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: right;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+}
+
+.contaner__2 {
+  height: 342px;
+  width: 720px;
+  background: -o-linear-gradient(348.52deg, #E9EFFF 41.56%, #E0E9FF 81.53%);
+  background: linear-gradient(101.48deg, #E9EFFF 41.56%, #E0E9FF 81.53%);
+}
+
+.img__people {
+  padding: 70px 0 24px 94px;
+}
+
+.paragraf__3 {
+  padding-left: 90px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 83px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #5E80FF;
+}
+
+.paragraf__4 {
+  padding-left: 90px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.03em;
+  color: #5E80FF;
+}
