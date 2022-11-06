@@ -849,9 +849,10 @@ nav button {
    display: inline-block;
    padding: 3px;
    margin-right: 24px;
+   transform: rotate(45deg);
 }
 
-.down1 {
+.down {
    transform: rotate(45deg);
 }
 
@@ -893,7 +894,7 @@ nav button {
    transform: rotate(45deg);
 }
 
-.arrow.up3 {
+.arrow__up {
    transform: rotate(-135deg);
    border: solid #495274;
    border-width: 0 3px 3px 0;

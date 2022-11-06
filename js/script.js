@@ -17,12 +17,23 @@ const swiper = new Swiper('.swiper', {
    // And if we need scrollbar
 
 });
+window.onload = function () {
+   let link = document.querySelector('.help__button3');
+   let arrows = document.querySelectorAll('.arrow');
+   let text = document.querySelector('.douc__text');
 
-let link = document.querySelector('.help__button3');
-let arrow = document.querySelector('.arrow down3');
-let text = document.querySelector('.douc__text');
 
-link.onclick = () => {
-   arrow.classList.toggle('.up3')
 
+   for (let arrow of arrows) {
+      arrow.onclick = function () {
+         arrow.classList.toggle('arrow__up')
+      }
+      link.onclick = function () {
+
+         text.style.display = (text.style.display === 'none') ? 'block' : 'none';
+
+      };
+   };
 };
+
+
