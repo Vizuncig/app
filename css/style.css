@@ -810,12 +810,6 @@ nav button {
           transform: rotate(45deg);
 }
 
-.down {
-  -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-          transform: rotate(45deg);
-}
-
 .razdel__line {
   width: 743px;
   border: 1px solid #D8E3FE;
@@ -834,12 +828,6 @@ nav button {
   margin-bottom: 15px;
 }
 
-.down2 {
-  -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-          transform: rotate(45deg);
-}
-
 .help__button3 {
   display: block;
   margin-top: 17px;
@@ -852,12 +840,6 @@ nav button {
   margin-bottom: 15px;
 }
 
-.down3 {
-  -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-          transform: rotate(45deg);
-}
-
 .arrow__up {
   -webkit-transform: rotate(-135deg);
       -ms-transform: rotate(-135deg);
@@ -867,9 +849,6 @@ nav button {
   display: inline-block;
   padding: 3px;
   margin-right: 24px;
-  -webkit-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  transition: all 1s ease;
 }
 
 .douc__text {
@@ -914,12 +893,6 @@ nav button {
   margin-bottom: 15px;
 }
 
-.down4 {
-  -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-          transform: rotate(45deg);
-}
-
 .help__button5 {
   display: block;
   margin-top: 17px;
@@ -930,10 +903,4 @@ nav button {
   letter-spacing: 0.03em;
   color: #8E96B7;
   margin-bottom: 15px;
-}
-
-.down5 {
-  -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-          transform: rotate(45deg);
 }
