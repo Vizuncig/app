@@ -19,21 +19,14 @@ const swiper = new Swiper('.swiper', {
 });
 window.onload = function () {
    let link = document.querySelector('.help__button3');
-   let arrows = document.querySelectorAll('.arrow');
+   let arrow = document.querySelector('.thid');
    let text = document.querySelector('.douc__text');
 
 
-
-   for (let arrow of arrows) {
-      arrow.onclick = function () {
-         arrow.classList.toggle('arrow__up')
-      }
-      link.onclick = function () {
-
-         text.style.display = (text.style.display === 'none') ? 'block' : 'none';
-
-      };
-   };
+   link.addEventListener("click", () => {
+      arrow.classList.toggle('arrow__up')
+      text.style.display = (text.style.display === 'block') ? 'none' : 'block';
+   });
 };
 
 
