@@ -168,11 +168,12 @@ nav button {
    color: #3A79FF;
    font-size: 13px;
    line-height: 16px;
-   background-color: #D2E1FF;
-   border-left: 16px solid #D2E1FF;
-   border-top: 13px solid #D2E1FF;
-   border-right: 15px solid #D2E1FF;
-   border-bottom: 13px solid #D2E1FF;
+   width: 113px;
+   height: 43px;
+
+
+   background: #D2E1FF;
+   border-radius: 2px;
 }
 
 .border__line {
@@ -955,4 +956,249 @@ nav button {
    letter-spacing: 0.03em;
    color: #8E96B7;
    margin-bottom: 15px;
+}
+
+.getstart__now {
+   position: relative;
+   width: 1440px;
+   height: 447px;
+   background: linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
+}
+
+.now__text1 {
+   font-weight: 500;
+   font-size: 10px;
+   line-height: 12px;
+   /* identical to box height */
+   padding-top: 98px;
+   padding-bottom: 16px;
+   letter-spacing: 0.1em;
+   text-transform: uppercase;
+   text-align: center;
+   color: #FFFFFF;
+}
+
+.now__text2 {
+   font-weight: 300;
+   font-size: 48px;
+   line-height: 60px;
+   /* identical to box height */
+   padding-bottom: 28px;
+   text-align: center;
+
+   color: #FFFFFF;
+}
+
+.text3 {
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 29px;
+   text-align: center;
+   letter-spacing: 0.03em;
+   padding-bottom: 28px;
+   color: #FFFFFF;
+}
+
+.block__button {
+   display: flex;
+   justify-content: center;
+}
+
+.now__button1 {
+   width: 130.08px;
+   height: 43px;
+   background: #FFFFFF;
+   box-shadow: 0px 5px 15px #6480E8;
+}
+
+.now__button2 {
+   width: 155px;
+   height: 43px;
+   font-size: 13px;
+   line-height: 16px;
+   /* identical to box height */
+
+   text-align: center;
+   background: linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
+   color: #C7D3FF;
+   border: 1px solid #A0B4FF;
+}
+
+.now__img1 {
+   position: absolute;
+   vertical-align: middle;
+   top: 10%;
+   left: 2%;
+}
+
+.now__img2 {
+   position: absolute;
+   vertical-align: middle;
+   top: 40%;
+   left: 60%;
+}
+
+.newletter__container {
+   display: flex;
+   width: 1440px;
+   height: 332px;
+   background: #FCFDFF;
+}
+
+.cont__1 {
+   width: 720px;
+   height: 332px;
+}
+
+.letter__text1 {
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 22px;
+   /* identical to box height */
+   padding-top: 118px;
+   padding-bottom: 18px;
+   text-align: center;
+
+   color: #3D4F9F;
+}
+
+.letter__text2 {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 27px;
+   letter-spacing: 0.03em;
+   padding-left: 276px;
+   color: #8D96BD;
+}
+
+.cont__2 {
+   width: 720px;
+   height: 332px;
+}
+
+.area__text {
+   margin-top: 136px;
+   margin-right: 14px;
+   padding-left: 23px;
+   width: 279px;
+   height: 59px;
+   background: #EFEFF7;
+   border-radius: 5px;
+   color: #7A85AD;
+   font-weight: 700;
+   font-size: 13px;
+   line-height: 16px;
+}
+
+.letter__button {
+   width: 184px;
+   height: 59px;
+   background: #4D6CE1;
+   box-shadow: 0px 5px 15px rgba(116, 104, 255, 0.2);
+   border-radius: 5px;
+   font-weight: 700;
+   font-size: 13px;
+   line-height: 16px;
+   /* identical to box height */
+   text-align: center;
+
+   color: #FFFFFF;
+}
+
+.footer__bottom {
+   height: 287px;
+   background-color: #FFFFFF;
+
+   nav {
+      display: inline-block;
+   }
+}
+
+.footer__nav {
+   height: 287px;
+}
+
+.footer__logo {
+   display: inline-block;
+   margin-top: 101px;
+   margin-left: 117px;
+   margin-right: 73px;
+
+   img {
+      vertical-align: middle;
+   }
+}
+
+a.nav1 {
+   display: inline-block;
+   font-size: 12px;
+   line-height: 15px;
+   margin-top: 33px;
+   margin-right: 42px;
+   color: #697CA6;
+}
+
+#F {
+   display: inline-block;
+   margin-left: 319px;
+   margin-top: 32px;
+   margin-right: 37.58px;
+
+   img {
+      vertical-align: middle;
+   }
+}
+
+#Tel {
+   display: inline-block;
+   margin-top: 34.95px;
+   margin-right: 34.54px;
+
+   img {
+      vertical-align: middle;
+   }
+}
+
+#tw {
+   display: inline-block;
+   margin-top: 34.21px;
+   margin-right: 33.46px;
+
+   img {
+      vertical-align: middle;
+   }
+}
+
+#M {
+   display: inline-block;
+   margin-top: 34.21px;
+   margin-right: 44px;
+
+   img {
+      vertical-align: middle;
+   }
+}
+
+nav button {
+   text-align: center;
+   color: #3A79FF;
+   font-size: 13px;
+   line-height: 16px;
+   width: 113px;
+   height: 43px;
+
+
+   background: #D2E1FF;
+   border-radius: 2px;
+}
+
+.footer__text {
+   font-weight: 500;
+   font-size: 12px;
+   line-height: 15px;
+   letter-spacing: 0.05em;
+   text-transform: capitalize;
+   padding-top: 37px;
+   padding-left: 216px;
+   color: #AEB8D0;
 }
